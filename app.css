@@ -96,6 +96,7 @@ p {
 .grid-item h3 {
     font-size: 2em;
     color: #eee;
+    margin-bottom: 180px;
 }
 
 .grid-item img {
